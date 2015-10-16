@@ -16,6 +16,9 @@
     "markdown",
     "directive"
   ],
+  "dependencies": {
+    "showdown": "0.3.1"
+  },
   "author": "Brian Ford",
   "license": "MIT",
   "bugs": {
